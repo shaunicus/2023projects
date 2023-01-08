@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/08d8c383-bb34-4605-8384-75606ae4ba25/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/msdocs-python-webapp-quickstart-SHA",
+    "appService.deploySubpath": "flaskweb\\website"
+}

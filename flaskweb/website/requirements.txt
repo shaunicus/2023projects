@@ -1,6 +1,5 @@
 flask
 flask_login
-json
 flask_sqlalchemy
 werkzeug.security
 os
